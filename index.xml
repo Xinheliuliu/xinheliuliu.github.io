@@ -6,23 +6,14 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Dec 2020 22:11:25 +0800</lastBuildDate><atom:link href="https://xinheliuliu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jan 2021 21:57:30 +0800</lastBuildDate><atom:link href="https://xinheliuliu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog</title>
-      <link>https://xinheliuliu.github.io/post/blog/</link>
-      <pubDate>Tue, 29 Dec 2020 22:11:25 +0800</pubDate>
+      <title>MakeDown</title>
+      <link>https://xinheliuliu.github.io/post/markdown/</link>
+      <pubDate>Mon, 04 Jan 2021 21:57:30 +0800</pubDate>
       
-      <guid>https://xinheliuliu.github.io/post/blog/</guid>
-      <description>#˵�� �����ڼ䣬�ӼҰ칫��Ա���Լ���Ŀ¼�ڵ���дÿ�չ���С�ᡣ ���ݰ���������������ˮ�ˣ�Сʱ���𣩡������ܽᡣ ��׼ȷ�����Լ��Ĺ������̡� LTMÿ�ռ��飬���ž������顣
- #Ŀ¼�淶
-�����Ѱ�����֯�ܹ�������������ԱĿ¼�����Ҳ��ñ༭Ŀ¼�� ����ÿ���ܽ�ʱ�����Լ�����Ŀ¼�£�������&amp;quot;����+����&amp;quot;Ϊ������Wiki�����硰�Ϻ�ȫ2��10�ա���
- #ÿ���ܽ�����ʾ����ע�����½���ʾ������Ҫ�ٱ༭��
- ##��������1
- ȷ���ӼҰ칫��ͨ��Ч��������ת������Ч���������Ρ� ����ÿ���ܽ�Wiki�����ɽ��衣 ����ͻ���з����⣺����3���¼� �ƽ�Ԥ�㹤�����޽�չ ##��ˮ��2 9:00~10:50 ���Ż��� 10:50~11:30 �鿴�������� 13:20~13:50 С������ 13:50~15:00 �о�����ģ�������� 15:00~17:30 д�����ľ�̬ҳ�� ##��������3 ��ҵ΢�ŵ�֪̫ͨ�࣬��Ҫ����Ϣ����������Ч�� ##��������4 �����ľ�̬ҳ������ �����Ĺ��ܸ��Ͻ���    ��������Ϊ�����������һ���Ƿ������񣬽����ö�����ʽ������������������ &amp;#x21a9;&amp;#xfe0e;
- ��ˮ��Ϊ���������ÿ��Сʱ���й����������֣�����һ�㹤��һ����¼�£������°��ܽ�ʱҲ�ǲ������� &amp;#x21a9;&amp;#xfe0e;
- ��������Ϊ��ѡ��������ߡ�������Э���ȷ��������ĸ������⣬������Ա���ֵ�bugҲ���� &amp;#x21a9;&amp;#xfe0e;
- ��������Ϊ��ѡ�������д����д���ڶ������������������ص�����������Ҫ���� &amp;#x21a9;&amp;#xfe0e;
-   </description>
+      <guid>https://xinheliuliu.github.io/post/markdown/</guid>
+      <description>MarkDown 使用 测试hugo中文乱码问题 学习使用hugo做博客以及markdown  学习hugo更新博客 在windows平台下确实不好用 学习markdown 怎么使用github更新博客  </description>
     </item>
     
   </channel>
